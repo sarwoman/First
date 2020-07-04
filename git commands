@@ -1,0 +1,2 @@
+git init <repository name>
+git remote add origin <url of central repository>
